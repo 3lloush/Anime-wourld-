@@ -1,0 +1,7 @@
+AnimeWorld/
+├── animeworld/
+│   └── src/
+│       └── main/
+│           └── AnimeWorld.kt
+├── repo.json
+├── logo.jpg
