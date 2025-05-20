@@ -1,8 +1,6 @@
 {
   "name": "Anime World",
-  "description": "إضافة أنمي مترجم من عدة مصادر",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/3lloush/Anime-wourld-/main/manifest.json"
-  ]
+  "description": "إضافة أنمي عربية",
+  "path": "AnimeWorld.kt",
+  "version": 1
 }
