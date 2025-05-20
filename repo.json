@@ -1,0 +1,5 @@
+{
+  "name": "Anime World",
+  "description": "أفضل مسلسلات الأنمي",
+  "plugin": "AnimeWorld.kt"
+}
